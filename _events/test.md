@@ -1,5 +1,5 @@
 ---
-title: UKFT RISE:</br><span>Rise New Year Social</span>
+title: CHRIS' TESTES:</br><span>Dang</span>
 layout: generic
 theme: worklife
 speakers:
