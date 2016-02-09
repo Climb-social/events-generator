@@ -15,7 +15,7 @@ speakers:
 sponsors:
     - name: Work.Life
       logo: ../assets/img/sponsors/worklife.png
-collectionid: 56a7aa4308216f2a8021cfcd
+collectionid: 56b4b06908216f0cac62a86b
 background: ../assets/img/backgrounds/worklife.jpg
 hashtag: "#risesocial"
 wifi: "Wifi: WL Guest   Password: work.life@1"
