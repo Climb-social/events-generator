@@ -18,6 +18,10 @@ speakers:
 sponsors:
     - name: Work.Life
       logo: ../assets/img/sponsors/worklife.png
+    - name: Freelancers
+      logo: https://upload.wikimedia.org/wikipedia/en/9/91/Freelancer_logo_color_on_black_large.jpg
+    - name: GA
+      logo: https://ga-navi-production-herokuapp-com.global.ssl.fastly.net/assets/ga-lockup-71fbaaab518d174889a54e55cef043ba56a2a04e617235b74b1a9241f2791665.png
     - name: Girls In Tech
       logo: https://girlsintechlondon.files.wordpress.com/2014/11/high-res-square-git-copy.jpg?w=192
 collectionid: 56df085308216f4958ebf89b
